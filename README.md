@@ -4,7 +4,7 @@ Authors: Balazs Kegl
 
 [![Build Status](https://travis-ci.org/ramp-kits/air_passengers.svg?branch=master)](https://travis-ci.org/ramp-kits/air_passengers)
 
-Go to [`ramp-worflow`](https://github.com/paris-saclay-cds/ramp-workflow) for more help on the [RAMP](http:www.ramp.studio) ecosystem.
+Go to [`ramp-worflow`](https://github.com/paris-saclay-cds/ramp-workflow) for more help on the [RAMP](http://ramp.r0h.eu) ecosystem.
 
 Install ramp-workflow (rampwf), then execute
 
