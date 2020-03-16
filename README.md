@@ -1,6 +1,7 @@
 # RAMP starting kit on the air passengers dataset
 
 ### Remake: Geri Leka et Damien Raimond
+##### Read the Rapport Syntehtique to understand our path and TransformExternal to understand how we got the features.
 Authors: Balazs Kegl
 
 
