@@ -1,6 +1,8 @@
 # RAMP starting kit on the air passengers dataset
 
+### Remake: Geri Leka et Damien Raimond
 Authors: Balazs Kegl
+
 
 [![Build Status](https://travis-ci.org/ramp-kits/air_passengers.svg?branch=master)](https://travis-ci.org/ramp-kits/air_passengers)
 
